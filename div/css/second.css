@@ -1,0 +1,27 @@
+@charset "UTF-8"
+
+
+.container {
+	width: 80%;
+	float: left;
+}
+
+.lineup-list {
+	margin-bottom: 60px;
+}
+
+@media all and (max-width : 760px) {
+    .lineup-list {
+    margin-bottom: 60px;
+    height: 150px;
+    }
+}
+
+@media all and (max-width : 760px) {
+    h2 {
+    	width: 100%;
+    	padding: 0;
+    	text-align: center;
+    	padding-bottom: 10px;
+    }
+}
