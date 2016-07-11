@@ -3,7 +3,7 @@
 		<span class="w_5"></span>
 		 <li class="ml_3"><a href="index">HYPER AMBITION</a>
      	</li>
-        <li><a href="business/index.html"><img src="img/icon/show.png" class="nav_icon">サービス紹介</a>
+        <li><a href="business/index.html"><img src="/img/icon/show.png" class="nav_icon">サービス紹介</a>
             <span id="s2"></span>
            	<ul class="subs">
                 <li>コーチング
@@ -27,7 +27,7 @@
                 </li>
             </ul>
         </li>
-        <li><a href=""><img src="img/icon/zisseki.png" class="nav_icon">運用メディア</a>
+        <li><a href=""><img src="/img/icon/zisseki.png" class="nav_icon">運用メディア</a>
             <span id="s3"></span>
             <ul class="subs">
                 <li>ヘルスケア・医療メディア
