@@ -1,2 +1,0 @@
-Action myphp-script /php.cgi
-AddHandler myphp-script .php .html
