@@ -584,6 +584,7 @@ footer {
 }
 
 .footer_list {
+    margin-top: 50px;
 }
 .footer_list ul {
     text-align: center;
@@ -595,6 +596,9 @@ footer {
 }
 .footer_list ul > li > a {
     color: #FFFFFF;
+}
+.footer_list > p {
+  padding-top: 50px;
 }
 @media all and (max-width : 760px) {
     .footer_list ul li {
