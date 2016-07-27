@@ -564,6 +564,11 @@ h2 {
 
 
 /* footer */
+footer {
+  background: #011a4c;
+  height: 400px;
+  color: #53cef7;
+}
 .footer {
     margin-top: 50px;
     width: 100%;
