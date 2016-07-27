@@ -608,6 +608,6 @@ footer {
     }
     .footer_list ul li {
     width: 40%;
-    margin-left: none;
+    margin-left: 0;
 }
 }
