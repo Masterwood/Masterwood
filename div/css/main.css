@@ -592,6 +592,7 @@ footer {
 .footer_list ul li {
     float: left;
     margin-left: 8%;
+    color: #FFFFFF;
 }
 @media all and (max-width : 760px) {
     .footer_list ul li {
