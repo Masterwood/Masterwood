@@ -589,6 +589,8 @@ footer {
 .footer_list ul {
     text-align: center;
     padding: 0 10%;
+    margin: 0 auto;
+    width: 900px;
 }
 .footer_list ul li {
     float: left;
@@ -601,6 +603,9 @@ footer {
   padding-top: 50px;
 }
 @media all and (max-width : 760px) {
+    .footer_list ul {
+      width: 100%;
+    }
     .footer_list ul li {
     width: 40%;
 }
