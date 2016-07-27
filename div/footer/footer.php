@@ -4,7 +4,7 @@
 <div class="footer_list">
   <ul>
     <li><a href="../index.html">トップページ</a></li>
-    <li><a href="../business/index.html">サービス紹介</a></li>
+    <li><a href="../business/index.html">サービス紹介</a>
     <li><a href="">運用メディア</a></li>
     <li><a href="">事業情報</a></li>
     <li><a href="">お問い合わせ</a></li>
