@@ -1,5 +1,5 @@
 <div class="footer">
-  <p class="fs_14">Dreams of HYPER AMBITION are go to space by business growth.</p>
+  <p class="fs_14">Dreams of HYPER AMBITION are to go to space by business growth.</p>
 </div>
 <div class="footer_list">
   <ul>
