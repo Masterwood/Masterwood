@@ -1,0 +1,15 @@
+.btn01 {
+  border: 1px solid green;
+  border-radius: 5px;
+  background: green;
+  display: block;
+  width: 200px;
+  float: left;
+  padding: 10px 5px;
+  text-align: center;
+}
+
+.btn01 > p {
+  color: #FFFFFF;
+  font-size: 15px;
+}
