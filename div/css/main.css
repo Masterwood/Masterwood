@@ -401,8 +401,8 @@ h2 {
 /* img */
 .main-img {
     /*text-align: center;*/
-    float: left;
-    width: 100%;
+    width: 1000px;
+    margin: 0 auto;
 }
 @media all and (max-width : 760px) {
     .main-img {
@@ -411,6 +411,8 @@ h2 {
 }
 
 .main-img-left {
+  float: left;
+  width: 60%;
 }
 @media all and (max-width : 760px) {
     .main-img-left {
@@ -419,9 +421,8 @@ h2 {
 }
 
 .main-img-right {
-    float: right;
-    height: 300px;
-    position: absolute;
+    width: 40%;
+    
 }
 @media all and (max-width : 760px) {
     .main-img-right {
