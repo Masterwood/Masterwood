@@ -1,15 +1,43 @@
 .btn01 {
-  border: 1px solid green;
+  border: 1px solid #ff6347;
   border-radius: 5px;
-  background: green;
+  background: #ff6347;
   display: block;
-  width: 200px;
+  width: 180px;
   float: left;
   padding: 10px 5px;
   text-align: center;
+  box-shadow: 1px 3px #ccc;
+}
+
+.btn01:hover {
+  text-decoration: none;
 }
 
 .btn01 > p {
   color: #FFFFFF;
-  font-size: 15px;
+  font-size: 14px;
+}
+
+.btn02 {
+  border: 1px solid #32cd32;
+  border-radius: 5px;
+  background: #32cd32;
+  display: block;
+  width: 180px;
+  float: left;
+  padding: 10px 5px;
+  text-align: center;
+  box-shadow: 1px 3px #ccc;
+  margin-left: 10px;
+}
+
+.btn02:hover {
+  text-decoration: none;
+}
+
+.btn02 > p {
+  color: #FFFFFF;
+  font-size: 14px;
+  
 }
