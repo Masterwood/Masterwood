@@ -11,5 +11,5 @@
       <li><a href="">お問い合わせ</a></li>
     </ul>
   </div>
-  <p class="fs_14 clear_B txt_C">Copyright© 2016 HYPER AMBITION運営者   All Rights Reserved.</p>
+  <p class="fs_14 clear_B txt_C">Copyright© 2016 HYPER AMBITION   All Rights Reserved.</p>
 </div>
