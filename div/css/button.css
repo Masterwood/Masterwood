@@ -1,7 +1,7 @@
 .btn01 {
   border: 1px solid #150a90;
   border-radius: 5px;
-  background: #150a90;
+  background: #1B95E0;
   display: block;
   width: 180px;
   float: left;
@@ -12,6 +12,8 @@
 
 .btn01:hover {
   text-decoration: none;
+  margin-bottom: 3px;
+  box-shadow: 1px 6px #ccc;
 }
 
 .btn01 > p {
@@ -22,7 +24,7 @@
 .btn02 {
   border: 1px solid #91bd16;
   border-radius: 5px;
-  background: #91bd16;
+  background: #abe016;
   display: block;
   width: 180px;
   float: left;
@@ -34,10 +36,12 @@
 
 .btn02:hover {
   text-decoration: none;
+  margin-bottom: 3px;
+  box-shadow: 1px 6px #ccc;
 }
 
 .btn02 > p {
   color: #FFFFFF;
   font-size: 14px;
-
+  font-weight: bold;
 }
