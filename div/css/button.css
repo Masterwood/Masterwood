@@ -12,7 +12,7 @@
 
 .btn01:hover {
   text-decoration: none;
-  margin-bottom: 3px;
+  top: -3px;
   box-shadow: 1px 6px #ccc;
 }
 
@@ -24,7 +24,7 @@
 .btn02 {
   border: 1px solid #91bd16;
   border-radius: 5px;
-  background: #abe016;
+  background: #2abc8f;
   display: block;
   width: 180px;
   float: left;
@@ -36,12 +36,12 @@
 
 .btn02:hover {
   text-decoration: none;
-  margin-bottom: 3px;
+  top: -3px;
   box-shadow: 1px 6px #ccc;
 }
 
 .btn02 > p {
   color: #FFFFFF;
   font-size: 14px;
-  font-weight: bold;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, .3);
 }
