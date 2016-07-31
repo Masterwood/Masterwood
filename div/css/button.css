@@ -8,12 +8,17 @@
   padding: 10px 5px;
   text-align: center;
   box-shadow: 1px 3px #ccc;
+  position: relative;
 }
 
 .btn01:hover {
   text-decoration: none;
   top: -3px;
   box-shadow: 1px 6px #ccc;
+}
+
+.btn01:active {
+  top: 3px;
 }
 
 .btn01 > p {
@@ -32,12 +37,17 @@
   text-align: center;
   box-shadow: 1px 3px #ccc;
   margin-left: 10px;
+  position: relative;
 }
 
 .btn02:hover {
   text-decoration: none;
   top: -3px;
   box-shadow: 1px 6px #ccc;
+}
+
+.btn01:active {
+  top: 3px;
 }
 
 .btn02 > p {
