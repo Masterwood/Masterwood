@@ -1,7 +1,7 @@
 .btn01 {
-  border: 1px solid #ff6347;
+  border: 1px solid #150a90;
   border-radius: 5px;
-  background: #ff6347;
+  background: #150a90;
   display: block;
   width: 180px;
   float: left;
@@ -20,9 +20,9 @@
 }
 
 .btn02 {
-  border: 1px solid #32cd32;
+  border: 1px solid #91bd16;
   border-radius: 5px;
-  background: #32cd32;
+  background: #91bd16;
   display: block;
   width: 180px;
   float: left;
@@ -39,5 +39,5 @@
 .btn02 > p {
   color: #FFFFFF;
   font-size: 14px;
-  
+
 }
