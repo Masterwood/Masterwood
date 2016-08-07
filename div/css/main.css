@@ -324,7 +324,12 @@ p {
     #nav {
         display: none;
     }
+    .subs {
+      display: none;
+    }
 }
+
+
 .nav_icon {
     height: 30px;
     margin-left: -15px;
@@ -382,9 +387,10 @@ h1 {
     border-bottom: 2px solid #1e90ff;
 }
 
+
 @media all and (max-width : 760px) {
     h1,.h1size {
-    font-size: 22px;
+    font-size: 18px;
     padding: 5px;
     }
 }
@@ -422,7 +428,7 @@ h2 {
 
 .main-img-right {
     width: 40%;
-    
+
 }
 @media all and (max-width : 760px) {
     .main-img-right {
@@ -552,7 +558,7 @@ h2 {
     display:block;
     position:absolute;
     box-shadow: 0 0 2px 2px rgba(255,255,255,0.2) inset;
-    top:3px;
+    top:6px;
     left:2px;
     height:0;
     width:0;
