@@ -283,11 +283,11 @@ p {
     #nav li #s4:target + ul.subs,
     #nav li #s5:target + ul.subs,
     #nav li #s6:target + ul.subs, {
-        display: block;
+        display: none;
     }
 
     #nav ul.subs > li {
-        display: block;
+        display: none;
         width: auto;
     }
 
