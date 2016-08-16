@@ -13,8 +13,11 @@
 @media all and (max-width : 760px) {
     .lineup-list {
     margin-bottom: 60px;
-    height: 150px;
+    height: 250px;
     }
+}
+h2 {
+  text-align: left;
 }
 
 @media all and (max-width : 760px) {
@@ -23,5 +26,50 @@
     	padding: 0;
     	text-align: center;
     	padding-bottom: 10px;
+    }
+}
+
+.show-case {
+    text-align: center;
+    width: 900px;
+    padding-top: 30px;
+    margin: 0 auto;
+}
+.show-case-list {
+    float: left;
+    width: 300px;
+    height: 150px;
+    margin-bottom: 20px;
+}
+.show-case-list img {
+  width: 250px;
+}
+.show-case-list a {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+.show-case-list p {
+  font-size: 15px;
+}
+.show-case-list:hover {
+    -moz-transition: 0.4s;
+    -ms-transition: 0.4s;
+    -o-transition: 0.4s;
+    -webkit-transition: 0.4s;
+    transition: 0.4s;
+    opacity: 0.5;
+}
+
+@media all and (max-width : 760px) {
+    .show-case {
+        width: auto;
+    }
+    .show-case-list {
+    width: auto;
+    float: none;
+    margin: 0 auto;
+    margin-bottom: 60px;
+    height: 150px;
     }
 }
