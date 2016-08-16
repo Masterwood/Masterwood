@@ -15,6 +15,9 @@ body {
 p {
     line-height: 2.1em;
 }
+strong {
+  font-weight: bold;
+}
 
 .log {
 	text-align: center;
