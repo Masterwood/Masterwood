@@ -1,0 +1,37 @@
+@charset "UTF-8";
+
+.topvisual {
+  text-align: center;
+}
+
+.topvisual__img {
+  width: 100%;
+}
+
+.topvisual__paragraf {
+  position: absolute;
+  width: 100%;
+  top: 300px;
+  margin: auto;
+  color: #FFFFFF;
+}
+.topvisual__paragraf > h1 {
+  margin: auto;
+  text-align: center;
+  font-size: 20px;
+  text-shadow: 1px 1px 10px #333333;
+  border-bottom: none;
+}
+.topvisual__paragraf > p {
+  margin: auto;
+  text-align: center;
+  font-size: 16px;
+  text-shadow: 1px 1px 10px #333333;
+}
+@media all and (max-width : 760px) {
+  .topvisual__paragraf > h1 {
+    font-size: 14px;
+    top: -200px;
+    position: absolute;
+  }
+}
