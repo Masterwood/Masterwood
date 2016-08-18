@@ -62,3 +62,16 @@
      	</li  class="mr_3">
     </ul>
 </nav>
+<!--　ハンバーガーボタン -->
+    <button type="button" class="drawer-toggle drawer-hamburger">
+      <span class="sr-only">toggle navigation</span>
+      <span class="drawer-hamburger-icon"></span>
+    </button>
+    <nav class="drawer-nav" role="navigation">
+      <ul class="drawer-menu">
+        <li><a class="drawer-brand" href="#">Brand</a></li>
+        <li><a class="drawer-menu-item" href="#">Nav1</a></li>
+        <li><a class="drawer-menu-item" href="#">Nav2</a></li>
+      </ul>
+    </nav>
+<!-- END ハンバーガーボタン -->

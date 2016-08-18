@@ -11,7 +11,7 @@
 .topvisual__paragraf {
   position: absolute;
   width: 100%;
-  top: 300px;
+  top: 350px;
   margin: auto;
   color: #FFFFFF;
 }
@@ -31,7 +31,7 @@
 @media all and (max-width : 760px) {
   .topvisual__paragraf > h1 {
     font-size: 14px;
-    top: -200px;
+    top: -190px;
     position: absolute;
   }
 }
