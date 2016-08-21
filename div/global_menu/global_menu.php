@@ -47,10 +47,10 @@
                 </li>
             </ul>
      	</li>
-     	<li><a href="office/index.html">事業情報</a>
+     	<li><a href="office/index.html"><i class="fa fa-university fa-style fa-lg" aria-hidden="true"></i>事業情報</a>
      		<span id="s4"></span>
      	</li>
-     	<li><a href="">お問い合わせ</a>
+     	<li><a href=""><i class="fa fa-envelope-o fa-style fa-lg" aria-hidden="true"></i>お問い合わせ</a>
      		<span id="s4"></span>
      		<ul class="subs">
      			<li><a href="">お問い合わせ</a>
@@ -62,3 +62,16 @@
      	</li  class="mr_3">
     </ul>
 </nav>
+<!--　ハンバーガーボタン -->
+    <button type="button" class="drawer-toggle drawer-hamburger">
+      <span class="sr-only">toggle navigation</span>
+      <span class="drawer-hamburger-icon"></span>
+    </button>
+    <nav class="drawer-nav" role="navigation">
+      <ul class="drawer-menu">
+        <li><a class="drawer-brand" href="#">Brand</a></li>
+        <li><a class="drawer-menu-item" href="#">Nav1</a></li>
+        <li><a class="drawer-menu-item" href="#">Nav2</a></li>
+      </ul>
+    </nav>
+<!-- END ハンバーガーボタン -->

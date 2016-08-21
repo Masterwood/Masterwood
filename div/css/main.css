@@ -39,6 +39,11 @@ strong {
     }
 }
 
+.fa-style{
+  color: #000 !important;
+  margin-right: 10px;
+}
+
 .display_none {
 	display: none;
 }
@@ -419,25 +424,6 @@ h2 {
     }
 }
 
-.main-img-left {
-  float: left;
-  width: 60%;
-}
-@media all and (max-width : 760px) {
-    .main-img-left {
-        width: 100%;
-    }
-}
-
-.main-img-right {
-    width: 40%;
-
-}
-@media all and (max-width : 760px) {
-    .main-img-right {
-    display: none;
-    }
-}
 
 /* contact */
 .contact-container {
