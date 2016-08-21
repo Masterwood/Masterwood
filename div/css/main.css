@@ -39,6 +39,11 @@ strong {
     }
 }
 
+.fa-style{
+  color: #000 !important;
+  margin-right: 10px;
+}
+
 .display_none {
 	display: none;
 }
