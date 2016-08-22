@@ -1,4 +1,4 @@
-<nav><span id="global"><span class="menu-waku">MENU</span></span>
+<nav><span id="global"></span>
 	<ul id="nav">
 		<span class="w_5"></span>
 		 <li class="ml_3"><a href="index">HYPER AMBITION</a>
@@ -51,27 +51,32 @@
      		<span id="s4"></span>
      	</li>
      	<li><a href=""><i class="fa fa-envelope-o fa-style fa-lg" aria-hidden="true"></i>お問い合わせ</a>
-     		<span id="s4"></span>
-     		<ul class="subs">
-     			<li><a href="">お問い合わせ</a>
-     				<ul>
-     					<li><a href=""></a></li>
-     				</ul>
-     			</li>
-     		</ul>
      	</li  class="mr_3">
     </ul>
 </nav>
 <!--　ハンバーガーボタン -->
+<div class="sumaho-menu">
     <button type="button" class="drawer-toggle drawer-hamburger">
-      <span class="sr-only">toggle navigation</span>
+      <span class="sr-only"></span>
       <span class="drawer-hamburger-icon"></span>
+      <span>MENU</span>
     </button>
     <nav class="drawer-nav" role="navigation">
       <ul class="drawer-menu">
-        <li><a class="drawer-brand" href="#">Brand</a></li>
-        <li><a class="drawer-menu-item" href="#">Nav1</a></li>
-        <li><a class="drawer-menu-item" href="#">Nav2</a></li>
+        <li><a class="drawer-brand" href="/">HYPER AMBITION</a></li>
+        <li><a class="drawer-brand" href="business/index.html"><img src="http://masterwood.sakura.ne.jp/img/icon/show.png" class="nav_icon">サービス紹介</a></li>
+          <ul class="drawer-menu">
+            <li><a class="drawer-menu-item" href="#">WEB制作指導</a></li>
+            <li><a class="drawer-menu-item" href="#">WEB運用指導</a></li>
+            <li><a class="drawer-menu-item" href="#">LP制作代行</a></li>
+            <li><a class="drawer-menu-item" href="#">WEB制作代行</a></li>
+            <li><a class="drawer-menu-item" href="#">SEO施策のコンサルティング</a></li>
+            <li><a class="drawer-menu-item" href="#">WEBマーケティングのコンサルティング</a></li>
+          </ul>
+        <li><a class="drawer-brand" href="/"><img src="http://masterwood.sakura.ne.jp/img/icon/zisseki.png" class="nav_icon">運用メディア</a></li>
+        <li><a class="drawer-brand" href="/"><i class="fa fa-university fa-style fa-lg" aria-hidden="true"></i>事業情報</a></li>
+        <li><a class="drawer-brand" href="/"><i class="fa fa-envelope-o fa-style fa-lg" aria-hidden="true"></i>お問い合わせ</a></li>
       </ul>
     </nav>
+</div>
 <!-- END ハンバーガーボタン -->
