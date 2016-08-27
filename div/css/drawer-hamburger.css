@@ -1,35 +1,13 @@
 .drawer-hamburger-icon {
-<<<<<<< HEAD
-  margin-bottom: 12px !important;
-  height: 4px !important;
-}
-.drawer-hamburger-icon::after,::before {
-  height: 4px !important;
-}
-.drawer-hamburger {
-  color: #3e3d3d;
-  padding: 9px 7px 7px !important;
-  position: absolute !important;
-=======
   margin-bottom: 12px;
   height: 4px;
 }
 .drawer-hamburger-icon::after,.drawer-hamburger-icon::before {
   height: 4px;
 }
-.drawer-hamburger-icon::before {
-  top: -8px;
-}
-.drawer-hamburger-icon::after {
-  top: 8px;
-}
-.drawer-open .drawer-hamburger-icon {
-  background-color: transparent;
-}
 
 .drawer-hamburger {
   color: #3e3d3d;
   padding: 9px 7px 7px;
   position: absolute;
->>>>>>> master
 }
