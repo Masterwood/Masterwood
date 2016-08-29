@@ -417,8 +417,9 @@ h2 {
 /* img */
 .main-img {
     /*text-align: center;*/
-    width: 1000px;
-    margin: 0 auto;
+    width: 500px;
+    margin: auto;
+    padding-top: 10px;
 }
 @media all and (max-width : 760px) {
     .main-img {
