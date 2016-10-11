@@ -33,11 +33,9 @@ input,textarea,select{ *font-size:100%; }
 legend{ color:#000; }
 
 a:link,a:visited {
-	color: #333;
 	text-decoration: none;
 }
 a:hover {
 	color: #333;
 	text-decoration: underline;
 }
-
