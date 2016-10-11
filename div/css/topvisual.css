@@ -11,16 +11,16 @@
 .topvisual__paragraf {
   position: absolute;
   width: 100%;
-  top: 350px;
+  top: 280px;
   margin: auto;
   color: #fff;
 }
 .topvisual__paragraf > h1 {
   margin: auto;
   text-align: center;
-  font-size: 25px;
+  font-size: 27px;
   font-family: "游明朝", YuMincho, "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN", "HG明朝E", "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
-  text-shadow: 1px 1px 10px #333;
+  text-shadow: 1px 1px 3px #333;
   border-bottom: none;
 }
 .topvisual__paragraf > p {

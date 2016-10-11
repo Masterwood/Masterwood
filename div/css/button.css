@@ -53,3 +53,26 @@
   font-size: 14px;
   text-shadow: 0 1px 1px rgba(0, 0, 0, .3);
 }
+
+.button__free_trial {
+  padding: 14px 30px;
+  background: #36d900;
+  border-radius: 8px;
+  color: #fff;
+  font-size: 24px;
+  display: inline-block;
+  box-shadow: 3px 4px 0 #ccc;
+  border: 1px solid #888;
+}
+
+.button__free_trial:hover {
+  background: #3cf300;
+  text-decoration: none;
+  color: #fff;
+}
+
+.button__catchcopy {
+  color: #d68e08;
+  font-weight: bold;
+  font-size: 16px;
+}
