@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1.0" />
-<title>【メディア多数】　全てをデザインする「HYPER AMBITION」｜ハイパーアンビション</title>
+<title>【お問い合わせ】　WEBマーケティングのコンサルティングなら「HYPER AMBITION」｜ハイパーアンビション</title>
 <meta name="description" content="「HYPER AMBITION」へのレクチャー・コンサルティングのお問い合わせ・申し込みはこちらから"/>
 <meta name="robots" content="noindex"/>
 <link href="../css/reset.css" media="all" rel="stylesheet" type="text/css"/>
@@ -30,26 +30,26 @@
         <td><input size="30" type="text" name="Email" placeholder="例：tanaka@gmail.com" /></td>
       </tr>
       <tr>
-        <th>スキル</th>
+        <th>あなたの現在</th>
         <td><select name="スキル">
             <option value="">選択してください</option>
             <option value="WEB未経験">WEB未経験</option>
-            <option value="HTML・CSS3を触ったことがある">
-            HTML・CSS3を触ったことがある</option>
-            <option value="簡単なWEBページを作ったことがある">簡単なWEBページを作ったことがある</option>
-            <option value="WEBサイトを運用している">
-            WEBサイトを運用している</option>
+            <option value="個人のホームページを運用している">
+            個人のホームページを運用している</option>
+            <option value="企業のホームページを運用している">企業のホームページを運用している</option>
+            <option value="これから個人or企業のサイトを制作・運用しようとしている">
+            これから個人or企業のサイトを制作・運用しようとしている</option>
           </select></td>
       </tr>
       <tr>
-        <th>受講希望コース ※複数選択可</th>
-        <td><input name="受講希望コース[]" type="checkbox" value="サイト制作" /> サイト制作　
-          <input name="受講希望コース[]" type="checkbox" value="サイト運用" /> サイト運用
-          <input name="受講希望コース[]" type="checkbox" value="集客" /> 集客
+        <th>希望コース ※複数選択可</th>
+        <td><input name="受講希望コース[]" type="checkbox" value="サイト制作のコーチング" /> サイト制作のコーチング　
+          <input name="受講希望コース[]" type="checkbox" value="WEBマーケティングのコーチング" /> WEBマーケティングのコーチング"
+          <input name="受講希望コース[]" type="checkbox" value="SEOのコーチング" /> SEOのコーチング
         </td>
       </tr>
       <tr>
-        <th>目標や到達点など<br /></th>
+        <th>お問い合わせ内容<br /></th>
         <td><textarea name="お問い合わせ内容" cols="50" rows="5"></textarea></td>
       </tr>
     </table>
@@ -67,28 +67,5 @@
 <!-- END フッターエリア
 ---------------------------------->
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-<script type="text/javascript">
-  //グローバルナビ
-  $(function(){
-  var menuBtn =$("#global"),
-    menuContent = $("#nav");
-  menuBtn.click(function(){
-    menuContent.slideToggle();
-  });
-  $(window).resize(function(){
-    var win = $(window).width(),
-      p = 960;
-    if(win >p){
-      menuContent.show();
-    }else{
-      menuContent.hide();
-    }
-  });
-  $("#nav > li").click(function(e){
-    $(this).children('ul').slideToggle('fast').parent().siblings().children("ul:visible").hide('fast');
-  });
-});
-
-</script>
 </body>
 </html>
