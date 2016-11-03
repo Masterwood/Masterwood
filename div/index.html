@@ -93,9 +93,9 @@
     </article>
     <h2 class="mt_50 mb_30 font_B">運用WEBメディア紹介</h2>
     <div class="lineup">
-        <div class="lineup-list"><img src="img/media/tikakudeEnglish-logo.jpg">
+        <!-- <div class="lineup-list"><img src="img/media/tikakudeEnglish-logo.jpg">
         <p>【英語学習の指導者探し】近くでEnglish</p>
-        </div>
+        </div> -->
         <div class="lineup-list"><a href="http://hospitalcloud.net/"><img src="img/media/hospitalcloud-logo.jpg" target="_blank">
         <p>【ヘルスケア・医療メディア】Hospital Cloud</p></a>
         </div>
@@ -116,27 +116,6 @@
 </section>
 <script src="https://cdn.jsdelivr.net/drawer/3.2.0/drawer.min.js"></script>
 <script type="text/javascript">
-	//グローバルナビ
-	$(function(){
-	var menuBtn =$("#global"),
-		menuContent = $("#nav");
-	menuBtn.click(function(){
-		menuContent.slideToggle();
-	});
-	$(window).resize(function(){
-		var win = $(window).width(),
-			p = 960;
-		if(win >p){
-			menuContent.show();
-		}else{
-			menuContent.hide();
-		}
-	});
-	$("#nav > li").click(function(e){
-		$(this).children('ul').slideToggle('fast').parent().siblings().children("ul:visible").hide('fast');
-	});
-});
-
 // drawer
 $(document).ready(function() {
   $(".drawer").drawer();

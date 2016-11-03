@@ -32,17 +32,17 @@
             <ul class="subs">
                 <li>ヘルスケア・医療メディア
 	                <ul>
-	                    <li><a href="http://hospitalcloud.net/">Hospital Cloud</a></li>
+	                    <li><a href="//hospitalcloud.net/">Hospital Cloud</a></li>
 	                </ul>
                 </li>
-                <li>学習メディア
+                <!-- <li>学習メディア
 	                <ul>
 	                    <li><a href="">近くでEnglish</a></li>
 	                </ul>
-                </li>
+                </li> -->
                 <li>お蔵入りのコメディーサイト
 	                <ul>
-	                     <li><a href="http://masterwood.sakura.ne.jp/masterwood/">MasterWood</a></li>
+	                     <li><a href="//masterwood.github.io/index.html">MasterWood</a></li>
 	                </ul>
                 </li>
             </ul>

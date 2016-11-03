@@ -35,13 +35,13 @@
 	    などを行っております。</p>
 	    <h2 class="mt_50 mb_30 font_B">運用WEBメディア紹介</h2>
 	    <div class="lineup">
-	        <div class="lineup-list"><img src="../img/media/tikakudeEnglish-logo.jpg">
+	        <!-- <div class="lineup-list"><img src="../img/media/tikakudeEnglish-logo.jpg">
 	        <p>【英語学習の指導者探し】近くでEnglish</p>
-	        </div>
-	        <div class="lineup-list"><a href="http://hospitalcloud.net/" target="_blank"><img src="../img/media/hospitalcloud-logo.jpg">
+	        </div> -->
+	        <div class="lineup-list"><a href="//hospitalcloud.net/" target="_blank"><img src="../img/media/hospitalcloud-logo.jpg">
 	        <p>【ヘルスケア・医療メディア】Hospital Cloud</p></a>
 	        </div>
-	        <div class="lineup-list"><a href="http://masterwood.sakura.ne.jp/masterwood/" target="_blank"><img src="../img/media/masterwood-logo.jpg">
+	        <div class="lineup-list"><a href="//masterwood.github.io/index.html" target="_blank"><img src="../img/media/masterwood-logo.jpg">
 	        <p>【お蔵入りのコメディーサイト】MasterWood</p></a>
 	        </div>
 	    </div>
@@ -58,27 +58,6 @@
 </section>
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script type="text/javascript">
-	//グローバルナビ
-	$(function(){
-	var menuBtn =$("#global"),
-		menuContent = $("#nav");
-	menuBtn.click(function(){
-		menuContent.slideToggle();
-	});
-	$(window).resize(function(){
-		var win = $(window).width(),
-			p = 960;
-		if(win >p){
-			menuContent.show();
-		}else{
-			menuContent.hide();
-		}
-	});
-	$("#nav > li").click(function(e){
-		$(this).children('ul').slideToggle('fast').parent().siblings().children("ul:visible").hide('fast');
-	});
-});
-
 </script>
 </body>
 </html>
