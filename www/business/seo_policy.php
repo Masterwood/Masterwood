@@ -31,12 +31,12 @@
 		<h2 class="fl mt_50 mb_30 font_B">WEB制作・運用のレクチャー（コーチング）</h2>
 				<div class="lineup clear_B">
         <div class="lineup-list">
-            <a href="website-create.html"><img src="../img/second/business/imadesyo2.jpg" alt="WEB制作">
+            <a href="website-create.php"><img src="../img/second/business/imadesyo2.jpg" alt="WEB制作">
             <p>WEB制作</p>
             </a>
         </div>
         <div class="lineup-list">
-            <a href="website-run.html">
+            <a href="website-run.php">
             <img src="../img/second/business/up2.jpg" alt="WEB運用">
             <p>WEB運用</p>
             </a>
@@ -45,19 +45,19 @@
     <h2 class="fl mt_50 mb_30 font_B">WEBサイトの制作</h2>
     <div class="lineup clear_B">
         <div class="lineup-list">
-            <a href="lp-create.html">
+            <a href="lp-create.php">
             <img src="../img/second/business/sales2.jpg" alt="LP制作">
             <p>ランディングページ（LP）制作</p>
             </a>
         </div>
         <div class="lineup-list">
-            <a href="website-agent-create.html">
+            <a href="website-agent-create.php">
             <img src="../img/second/business/cording2.jpg" alt="WEB制作">
             <p>WEB制作</p>
             </a>
         </div>
         <div class="lineup-list">
-            <a href="owned_media.html">
+            <a href="owned_media.php">
             <img src="../img/second/business/ownmedia2.jpg" alt="オウンドメディア">
             <p>オウンドメディア</p>
             </a>
@@ -66,7 +66,7 @@
     <h2 class="fl mt_50 mb_30 font_B">WEB運用・集客のコンサルティング</h2>
     <div class="lineup clear_B">
         <div class="lineup-list">
-            <a href="seo_policy.html"><img src="../img/second/business/seo.jpg" alt="SEO施策">
+            <a href="seo_policy.php"><img src="../img/second/business/seo.jpg" alt="SEO施策">
             <p>SEO施策</p>
             </a>
         </div>
