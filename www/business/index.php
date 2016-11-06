@@ -26,12 +26,12 @@
 	<h2 class="fl mt_50 mb_30 font_B">WEB制作・運用のレクチャー（コーチング）</h2>
 	<div class="show-case clear_B">
         <div class="show-case-list">
-            <a href="website-create.html"><img src="../img/second/business/imadesyo2.jpg">
+            <a href="website-create.php"><img src="../img/second/business/imadesyo2.jpg">
             <p><strong>WEB制作指導</strong></p>
             </a>
         </div>
         <div class="show-case-list">
-            <a href="website-run.html">
+            <a href="website-run.php">
             <img src="../img/second/business/up2.jpg">
             <p><strong>WEB運用指導</strong></p>
             </a>
@@ -40,19 +40,19 @@
     <h2 class="fl mt_50 mb_30 font_B">WEBサイトの制作</h2>
     <div class="show-case clear_B">
         <div class="show-case-list">
-            <a href="lp-create.html">
+            <a href="lp-create.php">
             <img src="../img/second/business/sales2.jpg">
             <p><strong>ランディングページ（LP）制作・運用代行</strong></p>
             </a>
         </div>
         <div class="show-case-list">
-            <a href="website-agent-create.html">
+            <a href="website-agent-create.php">
             <img src="../img/second/business/cording2.jpg">
             <p><strong>WEB制作・運用代行</strong></p>
             </a>
         </div>
         <div class="show-case-list">
-            <a href="owned_media.html">
+            <a href="owned_media.php">
             <img src="../img/second/business/ownmedia2.jpg">
             <p><strong>オウンドメディア制作・運用代行</strong></p>
             </a>
@@ -61,7 +61,7 @@
     <h2 class="fl mt_50 mb_30 font_B">WEB運用・集客のコンサルティング</h2>
     <div class="show-case clear_B">
         <div class="show-case-list">
-            <a href="seo_policy.html"><img src="../img/second/business/seo.jpg">
+            <a href="seo_policy.php"><img src="../img/second/business/seo.jpg">
             <p><strong>SEO施策のコンサルティング</strong></p>
             </a>
         </div>

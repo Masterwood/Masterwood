@@ -38,8 +38,8 @@
           <p class="button__catchcopy">
             ＼ 今なら初回の指導・コンサルティングが無料 ／
           </p>
-          <a href="contact/contact.html" class="button__free_trial">
-            無料で体験してみる
+          <a href="contact/contact.php" class="button__free_trial">
+            まずは体験してみる（無料）
           </a>
         </div>
       </div>
@@ -52,7 +52,7 @@
     <!-- 【FIRST】問い合わせエリア -->
     <div class="contact-container">
     <p class="txt_Red font_B mb_15 sp_14">初回のお試しコーチング・コンサルティング無料サービス中です！</p>
-    <a href="contact/contact.html" class="" target="_blank"><img src="img/mail.jpg" atl="メール問い合わせ"></a>
+    <a href="contact/contact.php" class="" target="_blank"><img src="img/mail.jpg" atl="メール問い合わせ"></a>
     <p class="mt_10"><span class="txt_Red font_B sp_14">２４時間受付中！</span></p>
     <p class="attention mt_10">WEB未経験の方でも、現場で通用するスキルを習得できるよう徹底的にサポートします。</p>
     </div>
@@ -74,7 +74,7 @@
     <!-- 【FIRST】問い合わせエリア -->
     <div class="contact-container">
     <p class="txt_Red font_B mb_15 sp_14">初回のお試しコーチング・コンサルティング無料サービス中です！</p>
-    <a href="contact/contact.html" class="" target="_blank"><img src="img/mail.jpg" atl="メール問い合わせ"></a>
+    <a href="contact/contact.php" class="" target="_blank"><img src="img/mail.jpg" atl="メール問い合わせ"></a>
     <p class="mt_10"><span class="txt_Red font_B sp_14">２４時間受付中！</span></p>
     <p class="attention mt_10">WEB未経験の方でも、現場で通用するスキルを習得できるよう徹底的にサポートします。</p>
     </div>
