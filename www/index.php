@@ -17,6 +17,7 @@
 <link href="css/drawer-hamburger.css" media="all" rel="stylesheet">
 
 <link rel="shortcut icon" href="img/favicon.ico">
+<?php include($_SERVER['DOCUMENT_ROOT'].'/layout/analyticstracking.php'); ?>
 </head>
 <body class="drawer drawer--right">
 <header>

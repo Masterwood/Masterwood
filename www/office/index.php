@@ -9,6 +9,7 @@
 <link href="../css/reset.css" media="all" rel="stylesheet" type="text/css"/>
 <link href="../css/main.css" media="all" rel="stylesheet" type="text/css"/>
 <link rel="shortcut icon" href="../img/favicon.ico">
+<?php include($_SERVER['DOCUMENT_ROOT'].'/layout/analyticstracking.php'); ?>
 </head>
 <body>
 <header>
