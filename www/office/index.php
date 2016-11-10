@@ -13,7 +13,7 @@
 </head>
 <body>
 <header>
-	<div class="log"><a href="http://masterwood.sakura.ne.jp/"><img src="../img/logo.jpg"></a></div>
+	<div class="log"><a href="/"><img src="../img/logo.jpg"></a></div>
 </header>
 <!-- グローバルナビ -->
 <?php include($_SERVER['DOCUMENT_ROOT'].'/global_menu/global_menu.php'); ?>

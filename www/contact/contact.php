@@ -14,7 +14,7 @@
 </head>
 <body>
 <header>
-  <div class="log"><a href="http://masterwood.sakura.ne.jp/"><img src="../img/logo.jpg"></a></div>
+  <div class="log"><a href="/"><img src="../img/logo.jpg"></a></div>
 </header>
 <div class="container">
   <h1 class="mt_15">お問い合わせ</h1>

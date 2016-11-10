@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^(www\.)?masterwood\.sakura\.ne\.jp$ [NC]
+RewriteRule .* http://hyperambition.com%{REQUEST_URI} [R=301,L]
