@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1.0" />
-<title>【サービス紹介】HYPER AMBITION｜ハイパーアンビション</title>
+<title>【サービス紹介】WEBの学習からWEBマーケティングの学習・コンサルティングならHYPER AMBITION｜ハイパーアンビション</title>
 <meta name="description" content="「HYPER AMBITION」のサービスをご紹介。ハイパーアンビション"/>
 
 <link href="../css/reset.css" media="all" rel="stylesheet" type="text/css"/>
@@ -24,7 +24,7 @@
 	<h1>【サービス紹介】HYPER AMBITION</h1>
 	<h2 class="fl mb_30 font_B">プロによる質の高いWEB制作から、指導まで。</h2>
     <p class="clear_B">HYPER AMBITIONでは、東証一部上場企業のホームページ制作を行う人材が、WEB制作の指導から、WEB制作代行、ホームページを通して利益を得る仕組みづくりであるWEBマーケティングまで行います。</p>
-	<h2 class="fl mt_50 mb_30 font_B">WEB制作・運用のレクチャー（コーチング）</h2>
+	<h2 class="fl mt_50 mb_30 font_B">WEB制作・運用のレクチャー（学習指導）</h2>
 	<div class="show-case clear_B">
         <div class="show-case-list">
             <a href="website-create.php"><img src="../img/second/business/imadesyo2.jpg">
