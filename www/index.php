@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1.0" />
-<title>【WEBスキル習得】　全てをデザインする「HYPER AMBITION」ハイパーアンビション</title>
+<title>【WEBマーケティングスキル習得】コンサルティングなら「HYPER AMBITION」ハイパーアンビション</title>
 <meta name="description" content="WEB制作・運用・集客の仕方を教えます。コーチングとコンサルティングを行っています。情報サイト、事業運用サイト等も運営。新時代の全てをデザインする「HYPER AMBITION」ハイパーアンビション"/>
 
 <link href="css/reset.css" media="all" rel="stylesheet">
@@ -30,7 +30,7 @@
   <div class="topvisual">
     <img src="img/topvisual/top_current_visual4.jpg" alt="HYPER AMBITIONのキャッチコピー" class="topvisual__img">
     <div class="topvisual__paragraf">
-      <h1>ホームページ制作の学習とWEBマーケティングのコンサルティングを気軽に受けたいなら<br>『HYPER　AMBITION』</h1>
+      <h1>WEBの学習とWEBマーケティングの学習・コンサルティングを気軽に受けたいなら<br>『HYPER　AMBITION』</h1>
       <div style="width: 55%; margin: auto;">
         <div style="background:rgba(255,255,255,0.8); height: 130px; border-radius: 20px; margin-top: 10px;">
         <div class="main-img">
