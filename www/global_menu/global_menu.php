@@ -6,7 +6,7 @@
         <li><a href="/business/index.php"><img src="/img/icon/show.png" class="nav_icon">サービス紹介<i class="fa fa-chevron-down fa-chevron-style" aria-hidden="true"></i></a>
             <span id="s2"></span>
            	<ul class="subs">
-                <li>コーチング
+                <li>学習指導
                 	<ul>
                 		<li><a href="/business/website-create.php">WEB制作</a></li>
                     	<li><a href="/business/website-run.php">WEB運用</a></li>
