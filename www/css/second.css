@@ -2,7 +2,7 @@
 
 
 .container {
-	width: 80%;
+	width: 60%;
 	float: left;
 }
 
@@ -16,12 +16,13 @@
     height: 250px;
     }
 }
-h2 {
+
+.subhedding {
   text-align: left;
 }
 
 @media all and (max-width : 760px) {
-    h2 {
+    .subhedding {
     	width: 100%;
     	padding: 0;
     	text-align: center;

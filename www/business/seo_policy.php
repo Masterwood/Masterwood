@@ -21,15 +21,15 @@
 <!-- END グローバルナビ -->
 <section>
 <div class="container">
-	<h1>【SEO施策】SEOで検索順位を上げるならHYPER AMBITION</h1>
+	<h1 class="mainhedding">【SEO施策】SEOで検索順位を上げるならHYPER AMBITION</h1>
 	<div class="txt_C">
 		<img src="../img/second/business/seo.jpg" alt="SEO施策">
 	</div>
-	<h2 class="mb_30 font_B">SEO対策で、サイトのアクセス数を向上</h2>
+	<h2 class="subhedding mb_30 font_B">SEO対策で、サイトのアクセス数を向上</h2>
     <p class="clear_B">HYPER AMBITIONでは、SEOの内部施策のコンサルティングから実際の作業手伝いまでします。どのキーワードを狙っていくかという中長期的な事業展開に関わるビジネスロジックから入り、サイトに載せるページやコンテンツをテーマごとに分け、Googleのクローラボットがサイトのテーマ性を認識しやすくするコンサルティングをします。またタイトル、h1などの見出しの改善はもちろん、ヘッダーやフッター、サブメニュー（サブナビ）の内部リンク適正化、記事内のキーワードから連想される共起語の挿入などにより、リスクなく質の高いSEO内部施策のアドバイスを行います。</p>
-	<h2 class="mt_50 mb_30 font_B">コンサルティングだけではなく、SEO内部施策代行も。</h2>
+	<h2 class="subhedding mt_50 mb_30 font_B">コンサルティングだけではなく、SEO内部施策代行も。</h2>
 		<p class="">SEO内部施策は、サイトの規模によっては膨大な量のページを１ページつづ対策していかなければなりません。HYPERAMBITIONでは、SEO内部施策の代行も行っております。</p>
-		<h2 class="fl mt_50 mb_30 font_B">WEB制作・運用のレクチャー（コーチング）</h2>
+		<h2 class="subhedding fl mt_50 mb_30 font_B">WEB制作・運用のレクチャー（コーチング）</h2>
 				<div class="lineup clear_B">
         <div class="lineup-list">
             <a href="website-create.php"><img src="../img/second/business/imadesyo2.jpg" alt="WEB制作">
@@ -43,7 +43,7 @@
             </a>
         </div>
     </div>
-    <h2 class="fl mt_50 mb_30 font_B">WEBサイトの制作</h2>
+    <h2 class="subhedding fl mt_50 mb_30 font_B">WEBサイトの制作</h2>
     <div class="lineup clear_B">
         <div class="lineup-list">
             <a href="lp-create.php">
@@ -64,7 +64,7 @@
             </a>
         </div>
     </div>
-    <h2 class="fl mt_50 mb_30 font_B">WEB運用・集客のコンサルティング</h2>
+    <h2 class="subhedding fl mt_50 mb_30 font_B">WEB運用・集客のコンサルティング</h2>
     <div class="lineup clear_B">
         <div class="lineup-list">
             <a href="seo_policy.php"><img src="../img/second/business/seo.jpg" alt="SEO施策">

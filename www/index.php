@@ -48,7 +48,7 @@
     </div>
   </div>
   <div class="container">
-    <h2 class="mt_30 h1size">WEB制作の学習から、WEB制作代行、WEBマーケティングまでも<br>HYPER AMBITIONが行います。</h2>
+    <h2 class="subhedding mt_30 h1size">WEB制作の学習から、WEB制作代行、WEBマーケティングまでも<br>HYPER AMBITIONが行います。</h2>
 
     <!-- 【FIRST】問い合わせエリア -->
     <div class="contact-container">
@@ -81,7 +81,7 @@
     </div>
     <!-- /【END】問い合わせエリア -->
     <article>
-    <h2 class="mt_50">HYPER AMBITIONの思い</h2>
+    <h2 class="subhedding mt_50">HYPER AMBITIONの思い</h2>
     <p class="txt_C mt_30">他人が決めた道を歩むのではなく、<br>
     自分が切り開く道を歩んで欲しい。<br>
     これが、HYPER AMBITIONが思う願いの一つです。<br>
@@ -92,7 +92,7 @@
     あなたの心は、あなたが本当になりたいものを既に知っています。<br>
     あなたの一歩が世界を変えるのです。</p>
     </article>
-    <h2 class="mt_50 mb_30 font_B">運用WEBメディア紹介</h2>
+    <h2 class="subhedding mt_50 mb_30 font_B">運用WEBメディア紹介</h2>
     <div class="lineup">
         <!-- <div class="lineup-list"><img src="img/media/tikakudeEnglish-logo.jpg">
         <p>【英語学習の指導者探し】近くでEnglish</p>

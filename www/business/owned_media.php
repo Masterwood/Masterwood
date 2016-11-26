@@ -21,7 +21,7 @@
 <!-- END グローバルナビ -->
 <section>
 <div class="container">
-	<h1>【オウンドメディア】WEBサイトの制作ならHYPER AMBITION</h1>
+	<h1 class="mainhedding">【オウンドメディア】WEBサイトの制作ならHYPER AMBITION</h1>
 	<div class="txt_C">
 		<img src="../img/second/business/ownmedia2.jpg" alt="オウンドメディアの制作">
 	</div>

@@ -21,19 +21,19 @@
 <!-- END グローバルナビ -->
 <section>
 <div class="container">
-	<h1>【WEB制作】WEBならHYPERAMBITION</h1>
+	<h1 class="mainhedding">【WEB制作】WEBならHYPERAMBITION</h1>
 	<div class="txt_C">
 		<img src="../img/second/business/up2.jpg" alt="WEB制作のコーチング">
 	</div>
-	<h2 class="mb_30 font_B">WEB制作の代行</h2>
+	<h2 class="subhedding mb_30 font_B">WEB制作の代行</h2>
     <p class="clear_B">HYPER AMBITION（ハイパーアンビション）では、お忙しい企業様や事業主様に代わって、会社や事業所をアピールするためのWEBサイトを制作します。<br>
 		また、日々の忙しさに、サイトの更新などの運用をしている暇がない方に代わって、HYPERAMBITIONが、運用や改善を代行することもできます。</p>
-	<h2 class="mt_50 mb_30 font_B">WEBサイト制作の代行が選ばれる理由</h2>
+	<h2 class="subhedding mt_50 mb_30 font_B">WEBサイト制作の代行が選ばれる理由</h2>
 		<p class="">WEB制作には、戦略とデザインも重要ですが、もっとも重要なところがあります。<br>
 		それは、WEBサイトの運用です<br>
 		初めに作ったサイトは、日々の事業により変更する必要がありますし、必ず改善の必要性も出てきます。<br>
 		HYPERAMBITION（ハイパーアンビション）では、サイトの戦略やデザインを任せられるし、そのあとの日々の運用も任せることができます。</p>
-	<h2 class="mt_50 mb_30 font_B">HYPERAMBITIONの特徴</h2>
+	<h2 class="subhedding mt_50 mb_30 font_B">HYPERAMBITIONの特徴</h2>
 		<p class="">Webのプランニングから制作までワンストップで行います。<br>
 		レスポンシブWebデザインにより、スマホ/タブレットなどマルチデバイスに対応した最適なWebサイトを構築します。<br>
 		お客様のニーズにあったサイトを構築するため、CMS導入なども行います。<br>
@@ -43,7 +43,7 @@
 		Webサイトを持つにも、運用するにも専門の知見が必要です。<br>
 		HYPERAMBITIONにお任せいただければ、Web制作からマーケティングまでに費やされる時間を削減できます。
 		</p>
-		<h2 class="fl mt_50 mb_30 font_B">WEB制作・運用のレクチャー（コーチング）</h2>
+		<h2 class="subhedding fl mt_50 mb_30 font_B">WEB制作・運用のレクチャー（コーチング）</h2>
 				<div class="lineup clear_B">
         <div class="lineup-list">
             <a href="website-create.php"><img src="../img/second/business/imadesyo2.jpg" alt="WEB制作">
@@ -57,7 +57,7 @@
             </a>
         </div>
     </div>
-    <h2 class="fl mt_50 mb_30 font_B">WEBサイトの制作</h2>
+    <h2 class="subhedding fl mt_50 mb_30 font_B">WEBサイトの制作</h2>
     <div class="lineup clear_B">
         <div class="lineup-list">
             <a href="lp-create.php">
@@ -78,7 +78,7 @@
             </a>
         </div>
     </div>
-    <h2 class="fl mt_50 mb_30 font_B">WEB運用・集客のコンサルティング</h2>
+    <h2 class="subhedding fl mt_50 mb_30 font_B">WEB運用・集客のコンサルティング</h2>
     <div class="lineup clear_B">
         <div class="lineup-list">
             <a href="seo_policy.php"><img src="../img/second/business/seo.jpg" alt="SEO施策">
