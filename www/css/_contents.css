@@ -1,0 +1,18 @@
+.contents__subhedding {
+  border-left: 5px solid #1e90ff;
+  padding: 20px 1.5em;
+  font-size: 24px;
+  background: #f6f6f6;
+}
+
+
+.contents__lists {
+  padding: 0 0 0 20px;
+  margin: 1em 0 2em;
+}
+
+.contents__lists li {
+  list-style-type: disc;
+  padding-left: 12px;
+  margin: 6px 0;
+}

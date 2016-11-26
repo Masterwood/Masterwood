@@ -20,21 +20,21 @@
 <!-- END グローバルナビ -->
 <section>
 	<div class="container">
-		<h1>【事業情報】HYPER AMBITION</h1>
-		<h2 class="fl mb_30 font_B">全ての人が内面的に平等である世界へ</h2>
+		<h1 class="mainhedding">【事業情報】HYPER AMBITION</h1>
+		<h2 class="subhedding fl mb_30 font_B">全ての人が内面的に平等である世界へ</h2>
 		<p class="clear_B">私たちは、人々が何からも圧迫を受けることなく、平等で活き活きとそれぞれの人生を歩んでいける世界が訪れることを願っています。<br>
 		他人から抑圧され、自由を奪われることは、一人の個人として生まれてきた意味を失います。<br>
 		自由人として生きていくには、独立できる力が必要です。<br>
 		HYPER AMBITIONでは、一人ひとりが自由に生きていけるだけの力を身につけていただくことを目標としています。<br>
 		私たちは、一人では生きていけません。しかし、自分の心と意志に背いて他者に従順することは、この世に二人としていない一個人として生まれてきたかけがえのない存在を失くしてしまうことになります。<br>
 		あなたが一人の人間として生きていく力を身につけていただくために、私たちは尽力します。</p>
-	    <h2 class="mt_50 mb_30 font_B">現在の取り組み</h2>
+	    <h2 class="subhedding mt_50 mb_30 font_B">現在の取り組み</h2>
 	    <p>HYPER AMBITIONでは、<br>
 	    WEBを用いたメディア運営、<br>
 	    WEBの制作・運用・集客のコーチング・コンサルティング、<br>
 	    ランディングページ(LP)の制作やWEBページの制作、<br>
 	    などを行っております。</p>
-	    <h2 class="mt_50 mb_30 font_B">運用WEBメディア紹介</h2>
+	    <h2 class="subhedding mt_50 mb_30 font_B">運用WEBメディア紹介</h2>
 	    <div class="lineup">
 	        <!-- <div class="lineup-list"><img src="../img/media/tikakudeEnglish-logo.jpg">
 	        <p>【英語学習の指導者探し】近くでEnglish</p>
