@@ -38,7 +38,7 @@
             </a>
         </div>
     </div>
-    <h2 class="fl mt_50 mb_30 font_B">WEBサイトの制作</h2>
+    <h2 class="subhedding fl mt_50 mb_30 font_B">WEBサイトの制作</h2>
     <div class="show-case clear_B">
         <div class="show-case-list">
             <a href="lp-create.php">

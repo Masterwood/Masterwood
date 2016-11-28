@@ -414,6 +414,15 @@ strong {
     border-bottom: 2px solid #ffeddf;
     padding: 10px;
 }
+@media all and (max-width : 760px) {
+    .subhedding {
+        width : 100%;
+        font-size: 20px;
+    }
+    .subhedding__sp-top {
+      margin: 30px 0;
+    }
+}
 
 /* img */
 .main-img {
