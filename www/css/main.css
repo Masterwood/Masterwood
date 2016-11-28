@@ -2,6 +2,7 @@
 
 html {
     background-color: #FFFFFF;
+    font-family: "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN", "HG明朝E", "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
 }
 nav {
     position: relative;
@@ -410,7 +411,7 @@ strong {
     font-size: 25px;
     text-align: center;
     clear: both;
-    border-bottom: 2px solid #1e90ff;
+    border-bottom: 2px solid #ffeddf;
     padding: 10px;
 }
 
