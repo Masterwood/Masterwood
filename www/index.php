@@ -28,7 +28,7 @@
 <!-- END グローバルナビ -->
 <section>
   <div class="topvisual">
-    <img src="img/topvisual/top_current_visual4.jpg" alt="HYPER AMBITIONのキャッチコピー" class="topvisual__img">
+    <img src="img/topvisual/top_current_visual7.jpg" alt="HYPER AMBITIONのキャッチコピー" class="topvisual__img">
     <div class="topvisual__paragraf">
       <h1>WEBの学習とWEBマーケティングの学習・コンサルティングを気軽に受けたいなら<br>『HYPER　AMBITION』</h1>
       <div style="width: 55%; margin: auto;">
