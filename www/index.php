@@ -95,7 +95,7 @@
         <!-- <div class="lineup-list"><img src="img/media/tikakudeEnglish-logo.jpg">
         <p>【英語学習の指導者探し】近くでEnglish</p>
         </div> -->
-        <div class="lineup-list"><a href="http://hospitalcloud.net/"><img src="img/media/hospitalcloud-logo.jpg" target="_blank">
+        <div class="lineup-list"><a href="http://hospitalcloud.net/" target="_blank"><img src="img/media/hospitalcloud-logo.jpg">
         <p>【ヘルスケア・医療メディア】Hospital Cloud</p></a>
         </div>
         <div class="lineup-list"><a href="//masterwood.github.io/index.html" target="_blank"><img src="img/media/masterwood-logo.jpg">
