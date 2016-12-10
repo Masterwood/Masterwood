@@ -21,10 +21,10 @@
 <!-- END グローバルナビ -->
 <section>
 <div class="container">
-	<h1>【サービス紹介】HYPER AMBITION</h1>
-	<h2 class="fl mb_30 font_B">プロによる質の高いWEB制作から、指導まで。</h2>
+	<h1 class="mainhedding">【サービス紹介】HYPER AMBITION</h1>
+	<h2 class="subhedding fl mb_30 font_B">プロによる質の高いWEB制作から、指導まで。</h2>
     <p class="clear_B">HYPER AMBITIONでは、東証一部上場企業のホームページ制作を行う人材が、WEB制作の指導から、WEB制作代行、ホームページを通して利益を得る仕組みづくりであるWEBマーケティングまで行います。</p>
-	<h2 class="fl mt_50 mb_30 font_B">WEB制作・運用のレクチャー（学習指導）</h2>
+	<h2 class="subhedding fl mt_50 mb_30 font_B">WEB制作・運用のレクチャー（学習指導）</h2>
 	<div class="show-case clear_B">
         <div class="show-case-list">
             <a href="website-create.php"><img src="../img/second/business/imadesyo2.jpg">
@@ -38,7 +38,7 @@
             </a>
         </div>
     </div>
-    <h2 class="fl mt_50 mb_30 font_B">WEBサイトの制作</h2>
+    <h2 class="subhedding fl mt_50 mb_30 font_B">WEBサイトの制作</h2>
     <div class="show-case clear_B">
         <div class="show-case-list">
             <a href="lp-create.php">
@@ -59,7 +59,7 @@
             </a>
         </div>
     </div>
-    <h2 class="fl mt_50 mb_30 font_B">WEB運用・集客のコンサルティング</h2>
+    <h2 class="subhedding fl mt_50 mb_30 font_B">WEB運用・集客のコンサルティング</h2>
     <div class="show-case clear_B">
         <div class="show-case-list">
             <a href="seo_policy.php"><img src="../img/second/business/seo.jpg">

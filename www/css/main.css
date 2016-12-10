@@ -2,6 +2,7 @@
 
 html {
     background-color: #FFFFFF;
+    font-family: "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN", "HG明朝E", "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
 }
 nav {
     position: relative;
@@ -385,33 +386,42 @@ strong {
 
 
 /* h1  */
-h1,.h1size {
+.mainhedding,.h1size {
     font-size: 30px;
     margin-bottom: 30px;
     text-align: center;
     clear: both;
     font-weight: bold;
 }
-h1 {
+.mainhedding {
     padding: 10px;
     border-bottom: 2px solid #1e90ff;
 }
 
 
 @media all and (max-width : 760px) {
-    h1,.h1size {
+    .mainhedding,.h1size {
     font-size: 18px;
     padding: 5px;
     }
 }
 
 /* h2  */
-h2 {
+.subhedding {
     font-size: 25px;
     text-align: center;
     clear: both;
-    border-bottom: 2px solid #1e90ff;
+    border-bottom: 2px solid #ffeddf;
     padding: 10px;
+}
+@media all and (max-width : 760px) {
+    .subhedding {
+        width : 100%;
+        font-size: 20px;
+    }
+    .subhedding__sp-top {
+      margin: 30px 0;
+    }
 }
 
 /* img */

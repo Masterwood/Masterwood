@@ -28,14 +28,12 @@
 <!-- END グローバルナビ -->
 <section>
   <div class="topvisual">
-    <img src="img/topvisual/top_current_visual4.jpg" alt="HYPER AMBITIONのキャッチコピー" class="topvisual__img">
+    <img src="img/topvisual/top_current_visual7.jpg" alt="HYPER AMBITIONのキャッチコピー" class="topvisual__img">
     <div class="topvisual__paragraf">
       <h1>WEBの学習とWEBマーケティングの学習・コンサルティングを気軽に受けたいなら<br>『HYPER　AMBITION』</h1>
-      <div style="width: 55%; margin: auto;">
-        <div style="background:rgba(255,255,255,0.8); height: 130px; border-radius: 20px; margin-top: 10px;">
+      <div class="topvisual__button">
+        <div class="topvisual__button-whitemask">
         <div class="main-img">
-          <!-- <a href="#" class="btn01"><p>WEB制作の入門マニュアル<br>今すぐ無料でダウンロード</p></a>
-          <a href="#" class="btn02"><p>WEB制作の代行<br>今すぐ無料で資料請求</p></a> -->
           <p class="button__catchcopy">
             ＼ 今なら初回の指導・コンサルティングが無料 ／
           </p>
@@ -48,7 +46,7 @@
     </div>
   </div>
   <div class="container">
-    <h2 class="mt_30 h1size">WEB制作の学習から、WEB制作代行、WEBマーケティングまでも<br>HYPER AMBITIONが行います。</h2>
+    <h2 class="subhedding subhedding__sp-top mt_30 h1size">WEB制作の学習から、WEB制作代行、WEBマーケティングまでも<br>HYPER AMBITIONが行います。</h2>
 
     <!-- 【FIRST】問い合わせエリア -->
     <div class="contact-container">
@@ -81,7 +79,7 @@
     </div>
     <!-- /【END】問い合わせエリア -->
     <article>
-    <h2 class="mt_50">HYPER AMBITIONの思い</h2>
+    <h2 class="subhedding mt_50">HYPER AMBITIONの思い</h2>
     <p class="txt_C mt_30">他人が決めた道を歩むのではなく、<br>
     自分が切り開く道を歩んで欲しい。<br>
     これが、HYPER AMBITIONが思う願いの一つです。<br>
@@ -92,12 +90,12 @@
     あなたの心は、あなたが本当になりたいものを既に知っています。<br>
     あなたの一歩が世界を変えるのです。</p>
     </article>
-    <h2 class="mt_50 mb_30 font_B">運用WEBメディア紹介</h2>
+    <h2 class="subhedding mt_50 mb_30 font_B">運用WEBメディア紹介</h2>
     <div class="lineup">
         <!-- <div class="lineup-list"><img src="img/media/tikakudeEnglish-logo.jpg">
         <p>【英語学習の指導者探し】近くでEnglish</p>
         </div> -->
-        <div class="lineup-list"><a href="http://hospitalcloud.net/"><img src="img/media/hospitalcloud-logo.jpg" target="_blank">
+        <div class="lineup-list"><a href="http://hospitalcloud.net/" target="_blank"><img src="img/media/hospitalcloud-logo.jpg">
         <p>【ヘルスケア・医療メディア】Hospital Cloud</p></a>
         </div>
         <div class="lineup-list"><a href="//masterwood.github.io/index.html" target="_blank"><img src="img/media/masterwood-logo.jpg">
