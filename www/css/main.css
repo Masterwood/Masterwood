@@ -411,7 +411,7 @@ strong {
     font-size: 25px;
     text-align: center;
     clear: both;
-    border-bottom: 2px solid #ffeddf;
+    border-bottom: 2px solid #00ced1;
     padding: 10px;
 }
 @media all and (max-width : 760px) {
