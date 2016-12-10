@@ -17,7 +17,7 @@
   <div class="log"><a href="/"><img src="../img/logo.jpg"></a></div>
 </header>
 <div class="container">
-  <h1 class="mt_15">お問い合わせ</h1>
+  <h1 class="mainhedding mt_15">お問い合わせ</h1>
   <div id="formWrap">
   <p class="mb_15 mt_30 ml_3 mr_3">下記フォームに必要事項を入力後、確認ボタンを押してください。</p>
   <form method="post" action="mail.php" class="ml_3 mr_3">
