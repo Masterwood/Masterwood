@@ -96,7 +96,7 @@
         <p>【英語学習の指導者探し】近くでEnglish</p>
         </div> -->
         <div class="lineup-list"><a href="http://hospitalcloud.net/" target="_blank"><img src="img/media/hospitalcloud-logo.jpg">
-        <p>【ヘルスケア・医療メディア】Hospital Cloud</p></a>
+        <p>【妊婦さんのためのお役立ち情報発信メディア】Hospital Cloud</p></a>
         </div>
         <div class="lineup-list"><a href="//masterwood.github.io/index.html" target="_blank"><img src="img/media/masterwood-logo.jpg">
         <p>【お蔵入りのコメディーサイト】MasterWood</p></a>
