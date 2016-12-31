@@ -30,7 +30,7 @@
         <li><a href=""><img src="/img/icon/zisseki.png" class="nav_icon">運用メディア<i class="fa fa-chevron-down fa-chevron-style" aria-hidden="true"></i></a>
             <span id="s3"></span>
             <ul class="subs">
-                <li>ヘルスケア・医療メディア
+                <li>妊婦さんのためのお役立ち情報発信メディア
 	                <ul>
 	                    <li><a href="//hospitalcloud.net/">Hospital Cloud</a></li>
 	                </ul>
