@@ -125,8 +125,8 @@ $mailFooterDsp = 1;
 $mailSignature = <<< FOOTER
 
 ──────────────────────
-HYPER　AMBITION
-URL: http://hyperambition.com/
+Masterwood
+URL: http://masterwood.jp/
 ──────────────────────
 
 FOOTER;

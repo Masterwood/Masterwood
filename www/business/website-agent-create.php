@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1.0" />
-<title>【WEB制作】WEBのコーチングとコンサルティングならHYPER AMBITION｜ハイパーアンビション</title>
-<meta name="description" content="WEB運用をどうしたらいいかわからない人へ、WEB運用の方法をコーチングします。メンターとしての利用もできるし、コンサルティングも受けられる！「HYPER AMBITION」のWEB制作のコーチング・コンサルティングサービスをご紹介。ハイパーアンビション"/>
+<title>【WEB制作】WEBのコーチングとコンサルティングならMasterwood｜マスターウッド</title>
+<meta name="description" content="WEB運用をどうしたらいいかわからない人へ、WEB運用の方法をコーチングします。メンターとしての利用もできるし、コンサルティングも受けられる！「Masterwood」のWEB制作のコーチング・コンサルティングサービスをご紹介。マスターウッド"/>
 
 <link href="../css/reset.css" media="all" rel="stylesheet" type="text/css"/>
 <link href="../css/main.css" media="all" rel="stylesheet" type="text/css"/>
@@ -26,13 +26,13 @@
 		<img src="../img/second/business/up2.jpg" alt="WEB制作のコーチング">
 	</div>
 	<h2 class="subhedding mb_30 font_B">WEB制作の代行</h2>
-    <p class="clear_B">HYPER AMBITION（ハイパーアンビション）では、お忙しい企業様や事業主様に代わって、会社や事業所をアピールするためのWEBサイトを制作します。<br>
+    <p class="clear_B">Masterwood（マスターウッド）では、お忙しい企業様や事業主様に代わって、会社や事業所をアピールするためのWEBサイトを制作します。<br>
 		また、日々の忙しさに、サイトの更新などの運用をしている暇がない方に代わって、HYPERAMBITIONが、運用や改善を代行することもできます。</p>
 	<h2 class="subhedding mt_50 mb_30 font_B">WEBサイト制作の代行が選ばれる理由</h2>
 		<p class="">WEB制作には、戦略とデザインも重要ですが、もっとも重要なところがあります。<br>
 		それは、WEBサイトの運用です<br>
 		初めに作ったサイトは、日々の事業により変更する必要がありますし、必ず改善の必要性も出てきます。<br>
-		HYPERAMBITION（ハイパーアンビション）では、サイトの戦略やデザインを任せられるし、そのあとの日々の運用も任せることができます。</p>
+		HYPERAMBITION（マスターウッド）では、サイトの戦略やデザインを任せられるし、そのあとの日々の運用も任せることができます。</p>
 	<h2 class="subhedding mt_50 mb_30 font_B">HYPERAMBITIONの特徴</h2>
 		<p class="">Webのプランニングから制作までワンストップで行います。<br>
 		レスポンシブWebデザインにより、スマホ/タブレットなどマルチデバイスに対応した最適なWebサイトを構築します。<br>
@@ -93,7 +93,7 @@
         </div>
     </div>
     <p class="txt_C mt_30 clear_B">一台のパソコンから、世界まで</p>
-    <h3 class="h1size">HYPER AMBITIONで、WEBを</h3>
+    <h3 class="h1size">Masterwoodで、WEBを</h3>
 </div>
 <!--　フッターエリア
 ---------------------------------->

@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1.0" />
-<title>【WEB運用】WEBのコーチングとコンサルティングならHYPER AMBITION｜ハイパーアンビション</title>
-<meta name="description" content="WEB運用をどうしたらいいかわからない人へ、WEB運用の方法をコーチングします。メンターとしての利用もできるし、コンサルティングも受けられる！「HYPER AMBITION」のWEB制作のコーチング・コンサルティングサービスをご紹介。ハイパーアンビション"/>
+<title>【WEB運用】WEBのコーチングとコンサルティングならMasterwood｜マスターウッド</title>
+<meta name="description" content="WEB運用をどうしたらいいかわからない人へ、WEB運用の方法をコーチングします。メンターとしての利用もできるし、コンサルティングも受けられる！「Masterwood」のWEB制作のコーチング・コンサルティングサービスをご紹介。マスターウッド"/>
 
 <link href="../css/reset.css" media="all" rel="stylesheet" type="text/css"/>
 <link href="../css/main.css" media="all" rel="stylesheet" type="text/css"/>
@@ -26,7 +26,7 @@
 		<img src="../img/second/business/up2.jpg" alt="WEB制作のコーチング">
 	</div>
 	<h2 class="subhedding mb_30 font_B">WEB運用のコーチング</h2>
-    <p class="clear_B">HYPER AMBITIONでは、メールやチャットワークを通して、１対１でWEBの運用の仕方をレクチャーします。初めてのWEBサイト運用をする方でも十分に力をつけていただくために、初歩から着実にご指導いたします。サイトの運用には、GoogleやYahoo!の検索エンジンで、あるキーワードで検索した時に上位に表示されるようにするためのSEO対策や、WEBサイトを利用するユーザーにとって価値のある情報を提供できるサイトの運用方法もお教えいたします。</p>
+    <p class="clear_B">Masterwoodでは、メールやチャットワークを通して、１対１でWEBの運用の仕方をレクチャーします。初めてのWEBサイト運用をする方でも十分に力をつけていただくために、初歩から着実にご指導いたします。サイトの運用には、GoogleやYahoo!の検索エンジンで、あるキーワードで検索した時に上位に表示されるようにするためのSEO対策や、WEBサイトを利用するユーザーにとって価値のある情報を提供できるサイトの運用方法もお教えいたします。</p>
 	<h2 class="subhedding mt_50 mb_30 font_B">WEBサイトの分析</h2>
 		<p class="">あなたの運営するWEBサイトのソースコードなどやディレクトリー構想の内部構造の精査と、取り扱っているテーマや商材が、他の競合サイトと比べてどのポジションにいるか、優れている点と、脅威になる点等を分析いたします。また、Googleアナリティクスの権限を共有していただいて、日頃の分析作業の方法もお教えいたします。</p>
 	<h2 class="subhedding mt_50 mb_30 font_B">広告で利用するランディングサイト（LP）の制作と運用方法の指導</h2>
@@ -81,7 +81,7 @@
         </div>
     </div>
     <p class="txt_C mt_30 clear_B">一台のパソコンから、世界まで</p>
-    <h3 class="h1size">HYPER AMBITIONで、WEBを</h3>
+    <h3 class="h1size">Masterwoodで、WEBを</h3>
 </div>
 <!--　フッターエリア
 ---------------------------------->
