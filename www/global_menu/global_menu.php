@@ -1,7 +1,7 @@
 <nav><span id="global"></span>
 	<ul id="nav">
 		<span class="w_5"></span>
-		 <li class="ml_3"><a href="/">HYPER AMBITION</a>
+		 <li class="ml_3"><a href="/">Masterwood</a>
      	</li>
         <li><a href="/business/index.php"><img src="/img/icon/show.png" class="nav_icon">サービス紹介<i class="fa fa-chevron-down fa-chevron-style" aria-hidden="true"></i></a>
             <span id="s2"></span>
@@ -63,7 +63,7 @@
     </button>
     <nav class="drawer-nav" role="navigation">
       <ul class="drawer-menu">
-        <li><a class="drawer-brand" href="/">HYPER AMBITION</a></li>
+        <li><a class="drawer-brand" href="/">Masterwood</a></li>
         <li><a class="drawer-brand" href="/business/index.php"><img src="/img/icon/show.png" class="nav_icon">サービス紹介</a></li>
           <ul class="drawer-menu">
             <li><a class="drawer-menu-item" href="/business/website-create.php">WEB制作指導</a></li>

@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1.0" />
-<title>【WEBマーケティングスキル習得】コンサルティングなら「HYPER AMBITION」ハイパーアンビション</title>
-<meta name="description" content="WEB制作・運用・集客の仕方を教えます。コーチングとコンサルティングを行っています。情報サイト、事業運用サイト等も運営。新時代の全てをデザインする「HYPER AMBITION」ハイパーアンビション"/>
+<title>【WEBマーケティングスキル習得】コンサルティングなら「Masterwood」マスターウッド</title>
+<meta name="description" content="WEB制作・運用・集客の仕方を教えます。コーチングとコンサルティングを行っています。情報サイト、事業運用サイト等も運営。新時代の全てをデザインする「Masterwood」マスターウッド"/>
 
 <link href="css/reset.css" media="all" rel="stylesheet">
 <link href="css/main.css" media="all" rel="stylesheet">
@@ -28,9 +28,9 @@
 <!-- END グローバルナビ -->
 <section>
   <div class="topvisual">
-    <img src="img/topvisual/top_current_visual7.jpg" alt="HYPER AMBITIONのキャッチコピー" class="topvisual__img">
+    <img src="img/topvisual/top_current_visual8.jpg" alt="Masterwoodのキャッチコピー" class="topvisual__img">
     <div class="topvisual__paragraf">
-      <h1>WEBの学習とWEBマーケティングの学習・コンサルティングを気軽に受けたいなら<br>『HYPER　AMBITION』</h1>
+      <h1>WEBの学習とWEBマーケティングの学習・コンサルティングを気軽に受けたいなら<br>『Masterwood』</h1>
       <div class="topvisual__button">
         <div class="topvisual__button-whitemask">
         <div class="main-img">
@@ -46,7 +46,7 @@
     </div>
   </div>
   <div class="container">
-    <h2 class="subhedding subhedding__sp-top mt_30 h1size">WEB制作の学習から、WEB制作代行、WEBマーケティングまでも<br>HYPER AMBITIONが行います。</h2>
+    <h2 class="subhedding subhedding__sp-top mt_30 h1size">WEB制作の学習から、WEB制作代行、WEBマーケティングまでも<br>Masterwoodが行います。</h2>
 
     <!-- 【FIRST】問い合わせエリア -->
     <div class="contact-container">
@@ -79,10 +79,10 @@
     </div>
     <!-- /【END】問い合わせエリア -->
     <article>
-    <h2 class="subhedding mt_50">HYPER AMBITIONの思い</h2>
+    <h2 class="subhedding mt_50">Masterwoodの思い</h2>
     <p class="txt_C mt_30">他人が決めた道を歩むのではなく、<br>
     自分が切り開く道を歩んで欲しい。<br>
-    これが、HYPER AMBITIONが思う願いの一つです。<br>
+    これが、Masterwoodが思う願いの一つです。<br>
     人には、他人から決めつけられている以上に強力な力を持っています。<br>
     あなたのまだ見ぬ力を活かすのも、<br>
     他人に抑えつけられたままで力を発揮せずにいるのも、<br>あなたの意思次第です。<br>
@@ -103,7 +103,7 @@
         </div>
     </div>
     <p class="txt_C mt_30 clear_B">一台のパソコンから、世界まで</p>
-    <h3 class="h1size">HYPER AMBITIONで、WEBを</h3>
+    <h3 class="h1size">Masterwoodで、WEBを</h3>
   </div>
   <!--　フッターエリア
   --------------------------------->

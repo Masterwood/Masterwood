@@ -1,5 +1,5 @@
 <div class="footer">
-  <p class="fs_14">Dreams of HYPER AMBITION are to go to space by business growth.</p>
+  <p class="fs_14">Dreams of Masterwood are to go to space by business growth.</p>
 </div>
 <div class="footer_list">
   <div style="width: 100%;">
@@ -11,5 +11,5 @@
       <li><a href="/contact/contact.php">お問い合わせ</a></li>
     </ul>
   </div>
-  <p class="fs_14 clear_B txt_C">Copyright© 2016 HYPER AMBITION   All Rights Reserved.</p>
+  <p class="fs_14 clear_B txt_C">Copyright© 2017 Masterwood   All Rights Reserved.</p>
 </div>

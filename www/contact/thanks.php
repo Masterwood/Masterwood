@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1.0" />
-<title>【お問い合わせ】　WEBマーケティングのコンサルティングなら「HYPER AMBITION」｜ハイパーアンビション</title>
-<meta name="description" content="「HYPER AMBITION」へのレクチャー・コンサルティングのお問い合わせ・申し込みはこちらから"/>
+<title>【お問い合わせ】　WEBマーケティングのコンサルティングなら「Masterwood」｜マスターウッド</title>
+<meta name="description" content="「Masterwood」へのレクチャー・コンサルティングのお問い合わせ・申し込みはこちらから"/>
 <meta name="robots" content="noindex"/>
 <link href="/css/reset.css" media="all" rel="stylesheet" type="text/css"/>
 <link href="/css/main.css" media="all" rel="stylesheet" type="text/css"/>

@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1.0" />
-<title>【WEB制作】WEBのコーチングとコンサルティングならHYPER AMBITION｜ハイパーアンビション</title>
-<meta name="description" content="WEB制作をどう始めたらいいかわからない人に、WEB制作をコーチングします。メンターとしての利用もできるし、コンサルティングも受けられる！「HYPER AMBITION」のWEB制作のコーチング・コンサルティングサービスをご紹介。ハイパーアンビション"/>
+<title>【WEB制作】WEBのコーチングとコンサルティングならMasterwood｜マスターウッド</title>
+<meta name="description" content="WEB制作をどう始めたらいいかわからない人に、WEB制作をコーチングします。メンターとしての利用もできるし、コンサルティングも受けられる！「Masterwood」のWEB制作のコーチング・コンサルティングサービスをご紹介。マスターウッド"/>
 
 <link href="../css/reset.css" media="all" rel="stylesheet" type="text/css"/>
 <link href="../css/main.css" media="all" rel="stylesheet" type="text/css"/>
@@ -26,7 +26,7 @@
 		<img src="../img/second/business/imadesyo2.jpg" alt="WEB制作のコーチング">
 	</div>
 	<h2 class="subhedding mb_30 font_B">WEB制作のコーチング</h2>
-    <p class="clear_B">HYPER AMBITIONでは、メールやチャットワークを通して、１対１でWEBの作り方をレクチャーします。初めてWEBサイトを作る方でも十分に力をつけていただくために、初歩から着実にご指導いたします。わからない点があっても、１対１でのレクチャーで気軽に質問できるので、プログラミング学習サイトにはない長所があります。</p>
+    <p class="clear_B">Masterwoodでは、メールやチャットワークを通して、１対１でWEBの作り方をレクチャーします。初めてWEBサイトを作る方でも十分に力をつけていただくために、初歩から着実にご指導いたします。わからない点があっても、１対１でのレクチャーで気軽に質問できるので、プログラミング学習サイトにはない長所があります。</p>
 	<h2 class="subhedding mt_50 mb_30 font_B">WEB制作のメンター</h2>
 		<p class="">初めてWEBを制作する、あるいは、WEBサイトをすでに制作しているけど、コンテンツの盛り上げ方がわからない人に、マイルストーンとなる目標を示します。この目標を達成していけば、あなたのWEB制作スキルは着実に上達していくことでしょう。</p>
 	<h2 class="subhedding mt_50 mb_30 font_B">WEB制作のコンサルティング</h2>
@@ -81,7 +81,7 @@
         </div>
     </div>
     <p class="txt_C mt_30 clear_B">一台のパソコンから、世界まで</p>
-    <h3 class="h1size">HYPER AMBITIONで、WEBを</h3>
+    <h3 class="h1size">Masterwoodで、WEBを</h3>
 </div>
 <!--　フッターエリア
 ---------------------------------->
